@@ -1,7 +1,7 @@
 # DATA11001 Introduction to Data Science project
 Welcome to the "Google Trends And COVID: Predictions and Correlation" project.
 This project aims to provide insights into how Google search trends can be used to make predictions and analyze the correlation between online search behavior and COVID-19 cases.
-The project was created as an assignment for DATA11001 Introduction to Data Science by Yaqoub Baisili, Haseeb Shaikh and Jakub Grad.
+The project was created as an assignment for DATA11001 Introduction to Data Science course at the University of Helsinki.
 
 The repository contains all the code, notebooks, and data related to the project. 
 
