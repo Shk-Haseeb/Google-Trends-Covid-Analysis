@@ -16,4 +16,4 @@ The files:
    This notebook contains the whole process, from the start reading all the files, preporcessing, find the keywords that best correlates to COVID, to fitting the model and testing its accuracy.
    
 3) pytrends.ipynb:
-   Old notebook containing exploratory data analysis on how daily google trends data correlates to covid data before we switched to weekly data and 2 week spans.
+   Old notebook containing exploratory data analysis on how daily google trends data correlates to covid data before we switched to weekly data model and 2 week spans.
