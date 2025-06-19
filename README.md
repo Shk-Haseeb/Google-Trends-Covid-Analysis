@@ -1,19 +1,41 @@
-# DATA11001 Introduction to Data Science project
-Welcome to the "Google Trends And COVID: Predictions and Correlation" project.
-This project aims to provide insights into how Google search trends can be used to make predictions and analyze the correlation between online search behavior and COVID-19 cases.
-The project was created as an assignment for DATA11001 Introduction to Data Science course at the University of Helsinki.
+# DATA11001 Introduction to Data Science Project
 
-The repository contains all the code, notebooks, and data related to the project. 
+**Google Trends and COVID: Predictions and Correlation**
 
-The files:
-1) data:
-    1) owid-covid-data.csv: Official COVID data from Our Word in Data
-    2) google_trends: folder containing the data for all the google trends keywords used
-    3) pytrends_data: folder containing old google trends daily data for the pytrends notebook
-    4) cleaned_data: folder contained all the data after being preprocessed and other intermediary outputs
-  
-2) final project.ipynb:
-   This notebook contains the whole process, from the start reading all the files, preporcessing, find the keywords that best correlates to COVID, to fitting the model and testing its accuracy.
-   
-3) pytrends.ipynb:
-   Old notebook containing exploratory data analysis on how daily google trends data correlates to covid data before we switched to weekly data model and 2 week spans.
+Welcome to the "Google Trends and COVID" project — an exploration of how Google search behavior correlates with COVID-19 case trends. The goal was to evaluate whether search volume data could serve as an early indicator for rising case numbers. This project was developed as part of the **DATA11001: Introduction to Data Science** course at the **University of Helsinki**.
+
+---
+
+### 🔍 Project Highlights
+
+- Correlated Google Trends keywords with COVID-19 case data using time-lag analysis  
+- Identified the most predictive search terms through feature selection  
+- Built and evaluated a machine learning model to forecast case trends  
+- Transitioned from daily to weekly data for improved signal quality and prediction accuracy
+
+---
+
+### 🛠 Tools & Libraries
+
+- **Python**, **Jupyter Notebooks**  
+- **pandas**, **NumPy**, **scikit-learn**, **pytrends**  
+- Data sources: *Google Trends*, *Our World in Data*
+
+---
+
+### 📁 Files and Structure
+
+**`data/`**  
+- `owid-covid-data.csv`: COVID-19 case data from *Our World in Data*  
+- `google_trends/`: Weekly search trends for selected keywords  
+- `pytrends_data/`: Archived daily trends data used during initial exploration  
+- `cleaned_data/`: Preprocessed datasets and intermediate outputs  
+
+**`final project.ipynb`**  
+Main notebook covering the full workflow:  
+- Data loading & cleaning  
+- Keyword correlation analysis  
+- Model training and evaluation  
+
+**`pytrends.ipynb`**  
+Initial exploratory notebook using daily trends data before moving to weekly trends and lag analysis.
