@@ -6,7 +6,7 @@ Welcome to the "Google Trends and COVID" project — an exploration of how Googl
 
 ---
 
-### 🔍 Project Highlights
+### Project Highlights
 
 - Correlated Google Trends keywords with COVID-19 case data using time-lag analysis  
 - Identified the most predictive search terms through feature selection  
@@ -15,7 +15,7 @@ Welcome to the "Google Trends and COVID" project — an exploration of how Googl
 
 ---
 
-### 🛠 Tools & Libraries
+### Tools & Libraries
 
 - **Python**, **Jupyter Notebooks**  
 - **pandas**, **NumPy**, **scikit-learn**, **pytrends**  
@@ -23,7 +23,7 @@ Welcome to the "Google Trends and COVID" project — an exploration of how Googl
 
 ---
 
-### 📁 Files and Structure
+### Files and Structure
 
 **`data/`**  
 - `owid-covid-data.csv`: COVID-19 case data from *Our World in Data*  
