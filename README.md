@@ -1,8 +1,6 @@
-## DATA11001 Introduction to Data Science Project
+## **Google Trends and COVID: Predictions and Correlation**
 
-**Google Trends and COVID: Predictions and Correlation**
-
-Welcome to the "Google Trends and COVID" project; an exploration of how Google search behavior correlates with COVID-19 case trends. The goal was to evaluate whether search volume data could serve as an early indicator for rising case numbers. This project was developed as part of the **DATA11001: Introduction to Data Science** course at the **University of Helsinki**.
+Welcome to the "Google Trends and COVID" project; an exploration of how Google search behavior correlates with COVID-19 case trends. The goal was to evaluate whether search volume data could serve as an early indicator for rising case numbers. This project was developed as part of the **Introduction to Data Science** (DATA11001) course at the **University of Helsinki**.
 
 ---
 
